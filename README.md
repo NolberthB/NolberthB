@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hey, I'm Nolberto 👋
 
-<!--
-**NolberthB/NolberthB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Backend Developer · IT Infrastructure · Networking & Automation**
 
-Here are some ideas to get you started:
+I build backend APIs and enjoy working at the intersection of software and real-world infrastructure. I'm currently studying Computer Systems Engineering at Universidad Anáhuac México, with hands-on experience in web development and corporate networking.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I work with
+
+- **Backend:** JavaScript, TypeScript, Node.js, Express, REST APIs, PostgreSQL, MySQL
+- **Tools:** Git, Docker, n8n, JWT, bcrypt
+- **Infrastructure:** Networking, QoS, Wi-Fi mesh deployments
+- **Languages:** Spanish (native) · English (Cambridge B2)
+
+### Selected work
+
+- **[Authentication API](https://github.com/NolberthB/authAPI)** — Node.js/Express authentication service using PostgreSQL, Sequelize, bcrypt, JWT cookies, and input validation.
+- **[NolberthB.dev](https://github.com/NolberthB/NolberthB.dev)** — Minimal personal portfolio built with Astro and Tailwind CSS.
+
+### Beyond code
+
+I've worked on corporate networking infrastructure and connectivity optimization. I'm especially interested in roles that bridge **backend engineering, network engineering, and automation**.
+
+### Let's connect
+
+[LinkedIn](https://www.linkedin.com/in/nolberthb/) · [GitHub](https://github.com/NolberthB) · [Email](mailto:betanolberto14@gmail.com)
